@@ -2,7 +2,7 @@ import React from "react";
 
 const Container = (props) => {
     return (
-        <div className="container bg-secondary" id="B">
+        <div className="container" id="B">
             {props.children}
         </div>
 

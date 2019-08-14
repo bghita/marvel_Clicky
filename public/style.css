@@ -1,5 +1,8 @@
-#root {
-    background-image: url("./../src/images/space.jpg");
+#B{
+    background-color:rgba(214, 12, 12, 0.575);
+}
+#root{
+    background-color: black;
 }
 
 h2 {
@@ -9,7 +12,7 @@ h2 {
 }
 
 h3 {
-    color: rgb(250, 253, 250);
+    color: rgba(250, 253, 250, 0.548);
     text-align: center;
     font-family: 'Righteous', cursive;
     padding-bottom:20px;
@@ -31,6 +34,9 @@ h3 {
 
 #Nav{
     color:red;
-    font-size: 50px;
+    font-size: 70px;
     font-family: 'Black Ops One', cursive;
+    margin-left:430px;
+    text-shadow: 0px 0px 40px rgb(255, 136, 0), 0px 0px 40px rgb(139, 5, 248);
+
 }
