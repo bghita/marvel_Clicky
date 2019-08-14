@@ -22,11 +22,12 @@ h3 {
 #scoreboard {
     background-color: rgba(32, 3, 3, 0.377);
 }
-
+#scorBox{
+    color:red;
+}
 #game {
     background-color: rgba(32, 3, 3, 0.377);
 }
-
 
 #Nav{
     color:red;
